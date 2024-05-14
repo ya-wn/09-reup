@@ -5,7 +5,8 @@
 # +/- type path
 -
 + image game/gui/**
-- inage game/gui/phone/**
+- image game/gui/phone/**
+- image game/images/**
 - image game/**
 - music game/audio/**
 - voice game/voice/**
