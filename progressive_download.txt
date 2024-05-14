@@ -4,7 +4,7 @@
 #
 # +/- type path
 + image game/gui/**
-- image game/gui/phone/**
++ image game/gui/phone/**
 - image game/images/**
 - image game/**
 - music game/audio/**
